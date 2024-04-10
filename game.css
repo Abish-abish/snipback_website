@@ -2434,7 +2434,7 @@ header .dropdown-menu.show::-webkit-scrollbar-corner {
     align-items: center;
 }
 .select-wrap {
-    min-width: 250px;
+    min-width: auto;
 }
 .input-wrap  select{
     border: 0;
@@ -3265,9 +3265,7 @@ ul.dropdown__select {
 .d-flex {
   margin-left: 0px !important;
 }
-.select-wrap{
-  min-width:242px !important;
-}
+
 
 /* .input-group {
   width: 40% !important;
